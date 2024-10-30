@@ -13,6 +13,8 @@
   |*     written by: Aditya Gupta       *|
   |*        & Guy 'Wayyne' Dayhoff      *|
   |*                                    *|
+  |*          Dr. Sameer Varma          *|
+  |*   Lab of Computational Biophysics  *|  
   |*    University of South Florida     *|
   |*       Tampa, Fl - 2023-2024        *|
   |*                                    *|
